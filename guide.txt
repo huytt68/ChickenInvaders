@@ -1,0 +1,13 @@
+Người chơi có nhiệm vụ điều khiển một chiếc máy bay và hoàn thành các màn chơi.
+Máy bay sẽ bắn ra các loạt đạn để tiêu diệt các mục tiêu.
+Những con gà có thể thả trứng xuống để tấn công bạn.
+Cố gắng di chuyển thật khéo léo để né các loạt đạn của chúng.
+Các vật phẩm sẽ ngẫu nhiên rơi xuống khi hạ gục mục tiêu, ăn chúng để tăng sức mạnh.
+Đôi lúc bạn sẽ đi vào vùng thiên thạch hoặc gặp những con Boss rất mạnh.
+Hãy tiêu diệt thật nhiều mục tiêu và đi xa nhất có thể.
+
+Hướng dẫn cụ thể:
+Phím Space : bắn đạn
+Phím ←,→: di chuyển qua trái, phải
+Phím ↑,↓ : di chuyển lên, xuống
+Phím ESC : Pause game

@@ -1,0 +1,18 @@
+			Hướng dẫn trò chơi
+1: Các chức năng trong game:
+         -  Người chơi có thể chọn Máy Bay tùy ý của mình có sẵn trong game.
+         - Trong khi chơi người chơi sẽ được điều khiển một chiếc máy bay đã chọn 
+    để bắng rơi các con gà đến xâm lược Trái Đất
+         - Nhưng con gà có thể tấn công bằng cách thả trứng rơi từ trên xuống, nhiệm vụ của người chơi là 
+    cố gắng di chuyển thật khéo léo để né các đợt tấn công của Những con gà, và bắn hạ chúng.
+         - Khi người chơi bắn hạ được các con Gà người chơi có thế nhận được điểm thưởng.
+         - Mỗi màn người chơi vượt qua sẽ đến màn tiếp theo và có tốc độ và độ khó lớn hơn màn trước, 
+    Sau mỗi 5 màn người chơi sẽ gặp 1 con Gà boss(Có sức mạnh, sức chịu đựng lớn hơn rất nhiều các con gà thông thường), 
+    nhiệm vụ của người chơi cũng là có gắn bắn hạ Gà Boss và né đợt tấn công của Gà boss.
+         - Người chơi sẽ được cung cấp 3 mạng (mặc định) để chơi. 
+	
+2: Các nút ấn trong game
+          + Space: Bắn đạn.
+          + Arrow: di chuyển máy bay.
+          + q or ESC: tắt trò chơi. 
+          + Sử dụng chuột để nhấn các nút trong game.
